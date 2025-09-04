@@ -20,7 +20,6 @@ O objetivo é **analisar dados de condições climáticas e de solo** para preve
 
 - `OtavioCustodio_RM565606_pbl_fase4.ipynb` → Notebook Jupyter principal com toda a análise, código e conclusões.  
 - `crop_yield.csv` → Base de dados utilizada.  
-- `requirements.txt` → Lista de bibliotecas necessárias para executar o notebook.  
 - `README.md` → Este arquivo com instruções e informações do projeto.  
 
 ---
