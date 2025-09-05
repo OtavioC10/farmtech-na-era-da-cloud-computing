@@ -37,18 +37,9 @@ O objetivo é **analisar dados de condições climáticas e de solo** para preve
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- **.github**: arquivos de configuração específicos do GitHub.  
-- **assets**: imagens, logos e elementos não estruturados.  
-- **config**: arquivos de configuração de parâmetros do projeto.  
-- **document**: documentos gerados durante as fases do projeto.  
-- **scripts**: scripts auxiliares para automação, deploy ou backup.  
-- **src**: código-fonte desenvolvido ao longo das fases.  
 - **README.md**: arquivo principal de documentação (este).  
 - **crop_yield.csv**: base de dados utilizada.  
 - **OtavioCustodio_RM565606_pbl_fase4.ipynb**: notebook Jupyter com análise, código e resultados.  
-- **models/modelo_final.joblib**: modelo final treinado e persistido.  
-- **requirements.txt**: dependências para execução do projeto.  
-
 ---
 
 ## 1️⃣ Entrega 1 — Análise e Modelagem de Machine Learning
