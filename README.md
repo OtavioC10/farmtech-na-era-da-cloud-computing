@@ -40,6 +40,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - **README.md**: arquivo principal de documentação (este).  
 - **crop_yield.csv**: base de dados utilizada.  
 - **OtavioCustodio_RM565606_pbl_fase4.ipynb**: notebook Jupyter com análise, código e resultados.  
+- **requirements.txt**: dependências para execução do projeto
 ---
 
 ## 1️⃣ Entrega 1 — Análise e Modelagem de Machine Learning
